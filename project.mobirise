@@ -623,7 +623,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "The Farm",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1037,7 +1037,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "About Us",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -4925,7 +4925,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Why is 100% Grass Fed Beef Important?",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -5443,7 +5443,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "Sustainable Meat&nbsp;",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -5928,7 +5928,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Recipes",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -6364,7 +6364,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Work With Us",
-        "order": 1
+        "order": 6
       },
       "components": [
         {
