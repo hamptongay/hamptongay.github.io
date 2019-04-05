@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "V2 master Site 24/10/18",
-    "currentPage": "Work with us.html",
+    "currentPage": "Work.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6360,7 +6360,7 @@
         }
       ]
     },
-    "Work with us.html": {
+    "Work.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Work With Us",
